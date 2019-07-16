@@ -138,7 +138,7 @@ https:// api.nr3d.cn/open-api/user/add_order?accessKeyId=e2xxxxxx-99xxxxxx-84xxx
 
 ### 四.apiDemo
 
-[apiDemo](https://github.com/bdwtop/api.git)
+[apiDemo](https://github.com/bdwexchange/api.git)
 
 #### 需要签名的接口
 
